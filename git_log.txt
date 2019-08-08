@@ -1,0 +1,17 @@
+commit 550170626dafbef4f6df78bc7cc360a5df020e63
+Author: clara2911 <clara.tump@hotmail.com>
+Date:   Thu Aug 8 16:16:02 2019 +0200
+
+    edited gitignore
+
+commit d97c7c11b09e73085c14425a15aa01009cbeef2a
+Author: clara2911 <clara.tump@hotmail.com>
+Date:   Thu Aug 8 15:57:23 2019 +0200
+
+    added file3
+
+commit c9e8be540400dadcdb39d6f54a4e232730038474
+Author: clara2911 <clara.tump@hotmail.com>
+Date:   Thu Aug 8 15:51:06 2019 +0200
+
+    added readme.txt
