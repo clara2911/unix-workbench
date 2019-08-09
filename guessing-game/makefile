@@ -11,7 +11,7 @@ README.md: guessinggame.sh
 	date >> README.md
 	echo "***" >> README.md
 	echo "Number of lines in guessinggame.sh: " >> README.md
-	wc -l guessinggame.sh | awk '{ print $1 }' >> README.md
+	wc -l < guessinggame.sh >> README.md
 	echo "***" >> README.md
 
 
